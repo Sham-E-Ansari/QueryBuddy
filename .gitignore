@@ -4,7 +4,6 @@
 # local data
 chroma_db/
 documents/*.pdf
-assets/
 
 # python
 __pycache__/
