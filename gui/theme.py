@@ -1,0 +1,27 @@
+WINDOW_BG = "#0f1117"
+HEADER_BG = "#151823"
+CHAT_BG = "#0f1117"
+INPUT_BG = "#1b1f2d"
+
+USER_BUBBLE = "#5b6cff"
+USER_TEXT = "#ffffff"
+BUDDY_BUBBLE = "#1d2130"
+BUDDY_TEXT = "#e8eaf2"
+
+TEXT_MUTED = "#7f869c"
+ACCENT = "#5b6cff"
+ACCENT_HOVER = "#7684ff"
+SUBTLE_BUTTON = "#232838"
+SUBTLE_BUTTON_HOVER = "#2d3347"
+
+STATUS_READY = "#3ddc97"
+STATUS_BUSY = "#ffb84d"
+STATUS_ERROR = "#ff6b6b"
+
+# Segoe UI falls back to Nirmala UI for Bengali on Windows
+FONT_FAMILY = "Segoe UI"
+FONT_BODY = (FONT_FAMILY, 13)
+FONT_SMALL = (FONT_FAMILY, 11)
+FONT_TITLE = (FONT_FAMILY, 16, "bold")
+
+BUBBLE_RADIUS = 16

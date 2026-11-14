@@ -1,0 +1,12 @@
+# secrets
+.env
+
+# local data
+chroma_db/
+documents/*.pdf
+assets/
+
+# python
+__pycache__/
+*.pyc
+.venv/
